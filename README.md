@@ -1,5 +1,5 @@
 # CheatSheet
-CheatSheet where I will post my notes as I learn new topics.
+Este repositorio ha sido creado con el propósito de compilar y organizar las cheatsheets y apuntes que considero relevantes para cada uno de los temas que estudio mientras busco empleo como junior en el área de sistemas. Aquí encontrarás resúmenes, notas y referencias que me han sido útiles en mi proceso de aprendizaje y preparación profesional. A medida que investigue sobre el uso de otros programas, iré añadiendo esa información poco a poco en este repositorio.
 
 ## Bases de datos
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="110" height="60">](https://github.com/willimhw/CS-SQL.git)|
