@@ -6,8 +6,19 @@ CheatSheet where I will post my notes as I learn new topics.
 | ------------- | 
 
 ## Cloud
-|[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="100" height="100">](https://github.com/willimhw/CS-AWS.git)|
-| ------------- | 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/willimhw/CS-AWS.git">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://saviynt.com/hubfs/aws.png" width="100" height="60">
+          <source media="(prefers-color-scheme: light)" srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="100" height="100">
+          <img alt="Different cloud images for dark and light themes.">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Contenerización
 |[<img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="100" height="100">](https://github.com/willimhw/CS-Docker.git)|
