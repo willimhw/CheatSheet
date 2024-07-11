@@ -2,7 +2,7 @@
 CheatSheet where I will post my notes as I learn new topics.
 
 ## Bases de datos
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="110" height="60">](http://google.com.au/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="110" height="60">](https://github.com/willimhw/CS-SQL.git)
 
 ## Cloud
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="100" height="100">](http://google.com.au/)
