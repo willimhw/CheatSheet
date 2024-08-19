@@ -33,5 +33,5 @@ Este repositorio ha sido creado con el propósito de compilar y organizar las ch
 | ------------- | 
 
 ## LPIC - 1
-|[<img src="https://humanidades.com/wp-content/uploads/2024/06/sistema-operativo-linux.jpg" width="150" height="100">](https://github.com/willimhw/CS-VMware.git)|
+|[<img src="https://humanidades.com/wp-content/uploads/2024/06/sistema-operativo-linux.jpg" width="150" height="100">](https://github.com/willimhw/CS-LPIC1.git)|
 | ------------- | 
